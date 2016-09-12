@@ -24,4 +24,4 @@ The server will auto restart on changes.
 * you noticed any problem or error.
 
 ### Author
-* [Karpus Pail](https://github.com/spreadzp)
+* [Karpus Paul](https://github.com/spreadzp)
